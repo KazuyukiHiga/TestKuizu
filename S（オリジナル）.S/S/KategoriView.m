@@ -4,7 +4,7 @@
 //
 //  Created by 比嘉　和之 on 11/06/18.
 //  Copyright 2011 名桜大学. All rights reserved.
-//
+//test
 
 #import "KategoriView.h"
 #import "ItimonIttou2.h"

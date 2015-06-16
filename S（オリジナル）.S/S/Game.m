@@ -3,7 +3,7 @@
 //  SotukenSInryouJyouhou
 //
 //  Created by 比嘉　和之 on 11/06/30.
-//  Copyright 2011 名桜大学. All rights reserved.
+//  Copyritestght 2011 名桜大学. All rights reserved.
 //
 
 #import "Game.h"

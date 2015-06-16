@@ -4,7 +4,7 @@
 //
 //  Created by 比嘉　和之 on 11/07/13.
 //  Copyright 2011 名桜大学. All rights reserved.
-//
+//test
 
 #import "Quiz1.h"
 #import "QuizItem2.h"

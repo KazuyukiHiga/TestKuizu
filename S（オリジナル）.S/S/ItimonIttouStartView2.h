@@ -2,7 +2,7 @@
 //  SinryouJyouhou
 //
 //  Created by 比嘉　和之 on 11/06/07.
-//  Copyright 2011 名桜大学. All rights reserved.
+//  Copyright 2011test 名桜大学. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

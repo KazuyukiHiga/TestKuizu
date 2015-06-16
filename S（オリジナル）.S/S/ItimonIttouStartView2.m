@@ -9,7 +9,7 @@
 #import "kaitouView2.h"
 
 
-// クイズの出題数
+// クイズの出題数test
 static const NSInteger kQuizCount = 10;
 
 //次の出題までの待ち時間
